@@ -1,10 +1,10 @@
 ---
-title: 关于我
-date: 2019-11-11T01:30:25+08:00
-lastmod: 2020-02-02T17:37:24+08:00
+title: Board of Directors
+date: 2021-02-07T01:30:25+08:00
+lastmod: 2021-02-07T01:30:25+08:00
 ---
 
-g1eny0ung 的 ❤️ 博客
+Greg Willson 的 ❤️ 博客
 
 记录一些 🌈 生活上，技术上的事
 
@@ -18,17 +18,20 @@ g1eny0ung 的 ❤️ 博客
 
 主要的技术栈是：
 
-- JavaScript & TypeScript
-- React.js
-- Electron
-- Rust
+- Propsal Writing Assistance
+- Collection of Case Studies
+- Collaboration with UMN Peace Engineering
+- Peace Water and ECWO project
 
 写着玩：
 
-- Java & Clojure & CLJS
-- OCaml & Reason & ReScript
-- Dart & Swift
+- SCD Clinics focused on Water
+-- Wastewater and Sewage
+-- Drinking Water
+-- Municipal Solid Waste
 
-目前在 [PingCAP](https://pingcap.com) 工作
+目前在 [Peace Engineering Program Announcement](http://news.unm.edu/news/peace-engineering-initiative-set-for-may-29) 工作
+m
+目前在 [ECHO Program Concept]() 工作
 
 -- 2021 年 01 月 30 日更新

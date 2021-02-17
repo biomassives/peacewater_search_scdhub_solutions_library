@@ -1,5 +1,5 @@
 baseURL = "https://scdhub.org"
-languageCode = "zh-Hans"
+languageCode = "en"
 defaultContentLanguage = "en"
 title = "SCD Hub"
 theme = "dream"
@@ -8,7 +8,7 @@ copyright = '2021 SCD Hub <a rel="license" href="http://creativecommons.org/lice
 
 googleAnalytics = "UA-98295641-1"
 
-disqusShortname = "g1eny0ung"
+disqusShortname = "scdhub"
 
 enableRobotsTXT = true
 
@@ -58,12 +58,12 @@ hasCJKLanguage = true
   # LEANCLOUD_APP_ID = ""
   # LEANCLOUD_APP_KEY = ""
 
-  email = "ecocommunity@protonmail.com"
-  twitter = "ecocity"
-  facebook = "ecocity"
+  email = "acmeideal@gmail.com"
+  twitter = "scdhub"
+  facebook = "sustainable-community-development-hub"
   instagram = "ecocitylearningportal"
   # mastodon = ""
-  linkedin = "g1eny0ung"
+  linkedin = "ecocity"
   github = "sustainablecommunitydevelopmenthub"
   stackoverflow = "5676489/g1eny0ung"
   codepen = "biomassives"
@@ -72,9 +72,9 @@ hasCJKLanguage = true
 
   favicon = "/favicon.ico"
 
-  highlightjs = false
+  highlightjs = true
   # highlightjsCDN = "https://cdn.jsdelivr.net/gh/highlightjs/cdn-release/build/highlight.min.js"
-  highlightjsExtraLanguages = ["clojure", "ocaml"]
+  highlightjsExtraLanguages = ["Drinking water", "Wastewater and Sewage", "Municipal Solid Waste"]
   highlightjsTheme = "tomorrow"
   highlightjsThemeDark = "tomorrow-night"
 
@@ -88,3 +88,4 @@ hasCJKLanguage = true
   [params.advanced]
     customCSS = ["css/custom.css"]
     customJS = []
+

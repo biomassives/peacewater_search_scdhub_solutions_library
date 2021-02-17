@@ -4,4 +4,4 @@
 
 <https://g1eny0ung.site>
 
-Personal blog.
+SCD Website

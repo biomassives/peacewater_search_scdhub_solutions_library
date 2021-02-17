@@ -58,21 +58,21 @@ hasCJKLanguage = true
   # LEANCLOUD_APP_ID = ""
   # LEANCLOUD_APP_KEY = ""
 
-  email = "g1enyy0ung@gmail.com"
-  twitter = "g1eny0ung"
-  facebook = "g1eny0ung"
-  instagram = "g1eny0ung"
+  email = "ecocommunity@protonmail.com"
+  twitter = "ecocity"
+  facebook = "ecocity"
+  instagram = "ecocitylearningportal"
   # mastodon = ""
   linkedin = "g1eny0ung"
-  github = "g1eny0ung"
+  github = "sustainablecommunitydevelopmenthub"
   stackoverflow = "5676489/g1eny0ung"
-  codepen = "g1eny0ung"
+  codepen = "biomassives"
 
   siteStartYear = 2016
 
   favicon = "/favicon.ico"
 
-  highlightjs = true
+  highlightjs = false
   # highlightjsCDN = "https://cdn.jsdelivr.net/gh/highlightjs/cdn-release/build/highlight.min.js"
   highlightjsExtraLanguages = ["clojure", "ocaml"]
   highlightjsTheme = "tomorrow"

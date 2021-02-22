@@ -1,4 +1,4 @@
-baseURL = "https://scdhub.org"
+baseURL = "https://scdhub-g1eny-ecwo.vercel.app/"
 languageCode = "en"
 defaultContentLanguage = "en"
 title = "SCD Hub"

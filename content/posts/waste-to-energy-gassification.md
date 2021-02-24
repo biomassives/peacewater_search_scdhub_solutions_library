@@ -4,7 +4,7 @@ date: 2021-02-09T14:21:26+08:00
 lastmod: 2021-02-09T14:21:26+08:00
 author: Greg Willson
 avatar: /me/yy.jpg
-cover: /img/Buy-Me-A-Coffee.jpg
+cover: /img/如何冥想-2500年的智慧-荒岛十日记.jpg
 images:
   - /img/Buy-Me-A-Coffee.jpg
 categories:

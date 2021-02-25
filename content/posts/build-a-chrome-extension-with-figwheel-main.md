@@ -2,9 +2,9 @@
 title: Build a Chrome Extension with Figwheel Main
 date: 2021-01-12T23:54:31+08:00
 lastmod: 2021-01-12T23:54:31+08:00
-author: g1eny0ung
+author: biomassives
 avatar: /me/yy.jpg
-cover: /img/build-a-chrome-extension-with-figwheel-main.png
+cover: https://raw.githubusercontent.com/biomassives/peacewater_search_scdhub_solutions_library/main/static/img/50bef46befeec85cab9d532fdc23d811.jpg
 categories:
   - Eng
 tags:

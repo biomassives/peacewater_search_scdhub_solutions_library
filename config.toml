@@ -43,7 +43,7 @@ hasCJKLanguage = true
   author = "Greg Willson"
   description = "SCD Hub is dedicated to connecting people together to empower one another with pertinent information about how to address complex social and environmetnal problems. In 2021 we are heavily invested in documenting solutions and case studies of how Municipal Solid Waste, Drinking Water, and Waste Water issues can be addressed at the local level. "
   avatar = "/scdhub/scdhub.svg"
-  avatar
+  
   # add any text to display icon ie. "y"
   homepageavatar = ""
   headerTitle = "."

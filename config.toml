@@ -1,94 +1,48 @@
 baseURL = "https://scdhub-g1eny-ecwo.vercel.app/"
-languageCode = "en"
+copyright = "2021 SCD Hub <a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc-sa/4.0/\"><img alt=\"Creative Commons\" style=\"border-width:0\" src=\"https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png\" /></a><br /><a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc-sa/4.0/\">creativecommons</a> <br /><br /> <a href=\"https://www.pexels.com/zh-cn/\" target=\"_blank\">Pexels</a>, <a href=\"https://www.pexels.com/zh-cn/@minan1398\" target=\"_blank\">Min An</a>, <a href=\"https://www.pexels.com/zh-cn/photo/1454794/\" target=\"_blank\">credit</a>。"
 defaultContentLanguage = "en"
-title = "SCD Hub"
-theme = "dera2"
-
-copyright = '2021 SCD Hub <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">creativecommons</a> <br /><br /> <a href="https://www.pexels.com/zh-cn/" target="_blank">Pexels</a>, <a href="https://www.pexels.com/zh-cn/@minan1398" target="_blank">Min An</a>, <a href="https://www.pexels.com/zh-cn/photo/1454794/" target="_blank">credit</a>。'
-
-googleAnalytics = "UA-98295641-1"
-
 disqusShortname = "scdhub"
-
 enableRobotsTXT = true
-
+googleAnalytics = "UA-98295641-1"
 hasCJKLanguage = true
-
-# Paginate = 6
-
+languageCode = "en"
+theme = "dera2"
+title = "SCD Hub"
+[markup.goldmark.renderer]
+unsafe = true
 [outputs]
-  home = ["HTML", "RSS", "JSON"]
-
-# https://gohugo.io/news/0.60.0-relnotes/
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
-
+home = ["HTML", "RSS", "JSON"]
 [params]
-  background = "#fff"
-  backgroundImage = "/me/background.jpg"
-  linkColor = "seagreen"
-
-  # dark mode
-  # defaultDark = true
-  # backgroundDark = "#222"
-  backgroundImageDark = "/me/background.jpg"
-  darkLinkColor = "darkseagreen"
-  # darkNav = true
-  # dark404 = true
-
-  images = ["me/background.jpg"]
-
-  author = "Greg Willson"
-  description = "SCD Hub is dedicated to connecting people together to empower one another with pertinent information about how to address complex social and environmetnal problems. In 2021 we are heavily invested in documenting solutions and case studies of how Municipal Solid Waste, Drinking Water, and Waste Water issues can be addressed at the local level. "
-  avatar = "/scdhub/scdhub.svg"
-  
-  # add any text to display icon ie. "y"
-  homepageavatar = ""
-  headerTitle = "."
-  motto = "It’s better to set off right away instead of feeling the road is difficult"
-  # categoriesLimitInHeader = 6 # deprecated
-  # headerBottomText = "" # deprecated
-
-  # footerBottomText = "Sustainable Community Development means honoring our commuitments to ourselves that we live a good life, while recognizing that we must consider to future generations."
-
-  rss = true
-
-  utterancesRepo = "g1eny0ung/g1eny0ung.github.io"
-
-  # valine = true
-  # LEANCLOUD_APP_ID = ""
-  # LEANCLOUD_APP_KEY = ""
-
-  email = "acmeideal@gmail.com"
-  twitter = "scdhub"
-  facebook = "sustainable-community-development-hub"
-  instagram = "ecocitylearningportal"
-  # mastodon = ""
-  linkedin = "ecocity"
-  github = "sustainablecommunitydevelopmenthub"
-  stackoverflow = "5676489/g1eny0ung"
-  codepen = "biomassives"
-
-  siteStartYear = 2016
-
-  favicon = "/favicon.ico"
-
-  highlightjs = true
-  # highlightjsCDN = "https://cdn.jsdelivr.net/gh/highlightjs/cdn-release/build/highlight.min.js"
-  highlightjsExtraLanguages = ["Drinking water", "Wastewater and Sewage", "Municipal Solid Waste"]
-  highlightjsTheme = "tomorrow"
-  highlightjsThemeDark = "tomorrow-night"
-
-  # search
-  enableSearch = true
-
-  # options
-  showSummaryCoverInPost = true
-  # hasTwitterEmbed = true
-
-  [params.advanced]
-    customCSS = ["css/custom.css"]
-    customJS = []
-
+author = "Greg Willson"
+avatar = "/scdhub/scdhub.svg"
+background = "#fff"
+backgroundImage = "/me/background.jpg"
+backgroundImageDark = "/me/background.jpg"
+codepen = "biomassives"
+darkLinkColor = "darkseagreen"
+description = "SCD Hub is dedicated to connecting people together to empower one another with pertinent information about how to address complex social and environmetnal problems. In 2021 we are heavily invested in documenting solutions and case studies of how Municipal Solid Waste, Drinking Water, and Waste Water issues can be addressed at the local level. "
+email = "acmeideal@gmail.com"
+enableSearch = true
+facebook = "sustainable-community-development-hub"
+favicon = "/favicon.ico"
+github = "sustainablecommunitydevelopmenthub"
+headerTitle = "."
+highlightjs = true
+highlightjsExtraLanguages = ["Drinking water", "Wastewater and Sewage", "Municipal Solid Waste"]
+highlightjsTheme = "tomorrow"
+highlightjsThemeDark = "tomorrow-night"
+homepageavatar = ""
+images = ["me/background.jpg"]
+instagram = "ecocitylearningportal"
+linkColor = "seagreen"
+linkedin = "ecocity"
+motto = "It’s better to set off right away instead of feeling the road is difficult"
+rss = true
+showSummaryCoverInPost = true
+siteStartYear = 2016
+stackoverflow = "5676489/g1eny0ung"
+twitter = "scdhub"
+utterancesRepo = "g1eny0ung/g1eny0ung.github.io"
+[params.advanced]
+customCSS = ["css/custom.css"]
+customJS = []

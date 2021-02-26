@@ -9,6 +9,8 @@ body {
   }
 }
 
+.large.link.search.icon
+
 .flip-container {
   width: 100vw;
   height: 100vh;
@@ -252,6 +254,10 @@ body {
     display: none !important;
   }
 }
+
+.large.link.search.icon {
+    display: none !important;
+  }
 
 .toc {
   ul {

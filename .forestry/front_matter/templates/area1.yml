@@ -44,5 +44,6 @@ fields:
   type: boolean
   label: incative
 pages:
+- content/art1.svg.md
 - content/file_image.md
 - content/new1.md

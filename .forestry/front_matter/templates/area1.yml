@@ -40,3 +40,5 @@ fields:
   config:
     required: false
   label: title
+pages:
+- content/file_image.md

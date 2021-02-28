@@ -1,5 +1,5 @@
 ---
-title: pyrolysis waste to fuel / waste to energy examples
+title: Pyrolysis waste to fuel / waste to energy examples
 date: 2021-02-27T15:54:31+00:00
 lastmod: 2021-02-27T15:54:31+00:00
 author: biomassives
@@ -20,6 +20,8 @@ Unit processes 2 tons of waste per day. Oil, coal , gas, and metal are derived m
 furnace fueling area for burner below chamber [https://youtu.be/E_Gh0WTH46c?t=224](https://youtu.be/E_Gh0WTH46c?t=224 "https://youtu.be/E_Gh0WTH46c?t=224")
 
 Wet line separator for exiting pyrolytic combustable gas  [https://youtu.be/E_Gh0WTH46c?t=44](https://youtu.be/E_Gh0WTH46c?t=44 "https://youtu.be/E_Gh0WTH46c?t=44")
+
+[https://www.youtube.com/watch?v=c_bNmiDYn5g](https://www.youtube.com/watch?v=c_bNmiDYn5g "https://www.youtube.com/watch?v=c_bNmiDYn5g")
 
 #### 3D video for Waste Plastic/Rubber/Tyre To Fuel Oil Pyrolysis Plant
 

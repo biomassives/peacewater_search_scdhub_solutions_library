@@ -1,44 +1,25 @@
 ---
-title: Build a Chrome Extension with Figwheel Main
-date: 2021-01-12T23:54:31+08:00
-lastmod: 2021-01-12T23:54:31+08:00
+title: Waste plastic to diesel fuel demo
+date: 2021-02-27T15:54:31+00:00
+lastmod: 2021-02-27T15:54:31+00:00
 author: biomassives
-avatar: /me/yy.jpg
+avatar: "/me/yy.jpg"
 cover: https://raw.githubusercontent.com/biomassives/peacewater_search_scdhub_solutions_library/main/static/img/50bef46befeec85cab9d532fdc23d811.jpg
-categories:
-  - Eng
-tags:
-  - Chrome Extension
-  - ClojureScript
-  - Figwheel Main
----
+categories: []
+tags: []
 
+---
 Bring a smooth experience to the development of Chrome Extension.
 
-<!--more-->
+27<!--more-->
 
 ## Before starting
 
-Several years ago, I developed a chrome extension with ClojureScript,
-which named [GitHub Colorful Contributions](https://github.com/g1eny0ung/github-colorful-contributions-graph).
-
-That was the first time I have used [lein-figwheel](https://github.com/bhauman/lein-figwheel), a tool that can give you an extremely smooth live hot reloading in development.
-
-I am deeply attracted by it. It also has great info feedback (Tips for successful reload) and a built-in ClojureScript REPL (Use repl to send the code to the browser). If you come from other languages (Not Clojure and ClojureScript), I believe you will like everything that lein-figwheel brings you very much.
-
-Below is the screenshot from lein-figwheel README, It can reflect the **great info feedback** just mentioned:
-
-![Figwheel heads up example](https://s3.amazonaws.com/bhauman-blog-images/figwheel_image.png)
-
-Back to the topic, in this post, we are going to use [Figwheel Main](https://figwheel.org/), a brand new upgraded version of lein-figwheel, to build a chrome extension.
-I have used it in [GitHub Colorful Contributions](https://github.com/g1eny0ung/github-colorful-contributions-graph) to replace lein-figwheel.
-There will be some differences from regular web development that require our special attention. But don't worry, I will point out them later.
-
-Let's start.
+Below is the screenshot from
 
 ## Setup
 
-Assuming you have [lein](https://leiningen.org/) installed, then open <https://rigsomelight.com/figwheel-main-template/> and copy the `new` command to your shell:
+Assuming you have [lein](https://leiningen.org/) installed, then open [https://rigsomelight.com/figwheel-main-template/](https://rigsomelight.com/figwheel-main-template/) and copy the `new` command to your shell:
 
 ```sh
 lein new figwheel-main hello-world.core -- --reagent
@@ -120,7 +101,7 @@ document.write('<script>goog.require("hello_world.core");</script>')
 
 This violates this rule:
 
-> You can't use inline scripting in your Chrome App pages. The restriction bans both \<script\> blocks and event handlers (\<button onclick="..."\>).
+> You can't use inline scripting in your Chrome App pages. The restriction bans both <script> blocks and event handlers (<button onclick="...">).
 
 Refer to the errors above, to solve this problem, we need to set `content_security_policy` field in the `manifest.json`:
 
@@ -141,14 +122,12 @@ After you finish your application, you still need to do something before bundle 
 
 By developing the chrome extension, you need to use `chrome` API to do somethings, like save and sync the user storage, etc. We need to tell the closure compiler `chrome` is the [externs](https://developers.google.com/closure/compiler/docs/externs-and-exports) we used.
 
-There are two files we need to download: <https://github.com/google/closure-compiler/blob/master/contrib/externs/chrome.js> and <https://github.com/google/closure-compiler/blob/master/contrib/externs/chrome_extensions.js>.
+There are two files we need to download: [https://github.com/google/closure-compiler/blob/master/contrib/externs/chrome.js](https://github.com/google/closure-compiler/blob/master/contrib/externs/chrome.js) and [https://github.com/google/closure-compiler/blob/master/contrib/externs/chrome_extensions.js](https://github.com/google/closure-compiler/blob/master/contrib/externs/chrome_extensions.js).
 
 Put them into `externs` folder and edit `dev.cljs.edn` like below content:
 
-```
-{:main hello-world.core
- :externs ["externs/chrome.js" "externs/chrome_extensions.js"]}
-```
+    {:main hello-world.core
+     :externs ["externs/chrome.js" "externs/chrome_extensions.js"]}
 
 Then run:
 
@@ -168,7 +147,7 @@ Thanks for reading. Happy coding with Figwheel Main!
 
 References:
 
-- [ClojureScript](https://clojurescript.org/)
-- [Figwheel Main](https://figwheel.org/)
-- [figwheel.main template](https://rigsomelight.com/figwheel-main-template/)
-- [Chrome Apps Content Security Policy](https://developer.chrome.com/docs/apps/contentSecurityPolicy/)
+* [ClojureScript](https://clojurescript.org/)
+* [Figwheel](https://figwheel.org/)  -what is it? this is a tibdbit left in the theme we are adopting for peacewater_search
+
+![](/uploads/screenshot_2021-02-27-google-closure-compiler.png)

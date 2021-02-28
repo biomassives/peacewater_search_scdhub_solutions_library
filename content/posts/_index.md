@@ -1,5 +1,0 @@
----
-title: Goodness
-
----
-kindness

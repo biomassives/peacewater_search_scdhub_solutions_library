@@ -1,4 +1,33 @@
 ---
 label: area1
 hide_body: false
-fields: []
+fields:
+- name: todo
+  type: include
+  config: {}
+  template: area1
+  label: todo
+- name: my-project
+  type: boolean
+  label: my-project
+- name: group_listings
+  type: field_group_list
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: group_listings
+- name: content
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: content
+- name: title
+  type: text
+  config:
+    required: false
+  label: title

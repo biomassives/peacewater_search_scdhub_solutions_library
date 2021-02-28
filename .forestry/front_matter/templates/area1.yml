@@ -2,11 +2,6 @@
 label: area1
 hide_body: false
 fields:
-- name: todo
-  type: include
-  config: {}
-  template: area1
-  label: todo
 - name: my-project
   type: boolean
   label: my-project

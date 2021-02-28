@@ -33,7 +33,17 @@ Amy Zhang sales1@hnjinzhen.com +8615838088573
 
 273 subscribers
 
-[!\[\](https://yt3.ggpht.com/ytc/AAUvwnhQqLNYsV6w7YEZQJHPy1gSh_MeqlhQo4w2HFGU=s48-c-k-c0x00ffffff-no-rj =48x)](https://www.youtube.com/channel/UCWa1C_WFo_Oe_plBN_idMFA)
+[https://www.youtube.com/watch?v=tX7GmWC0w4w](https://www.youtube.com/watch?v=tX7GmWC0w4w "https://www.youtube.com/watch?v=tX7GmWC0w4w")
+
+[![](https://yt3.ggpht.com/ytc/AAUvwnjF1l9txG_bt2PCpIisus7aqvrUCnOEVnRDAvIB_w=s48-c-k-c0x00ffffff-no-rj =48x)](https://www.youtube.com/channel/UCIilYSKs3dNLjYtzdvQN9AA)
+
+ [Waste Tire Pyrolysis Plant](https://www.youtube.com/channel/UCIilYSKs3dNLjYtzdvQN9AA)
+
+ 2.75K subscribers
+
+The waste tire pyrolysis plant manufactured by DoingGroup adopts the latest pyrolysis technology, which aims at converting waste plastics into pyrolysis oil, carbon black and steel wire without any pollution. After heating, cooling and cleaning, after a series of processes, you can get plenty of valuable byproducts to earn profits. If you have interests, welcome to contact with us.
+
+ [http://www.wastetireoil.com](http://www.wastetireoil.com "http://www.wastetireoil.com")​ whatsapp/wechat: +86 13526692320 Email:oilmachine@wastetireoil.com 
 
 Demo plastic waste gasification furnace, Solid recovered fuel gasifier, RDF gasification for display
 

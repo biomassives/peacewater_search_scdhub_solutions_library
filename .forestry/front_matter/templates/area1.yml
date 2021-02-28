@@ -12,6 +12,20 @@ fields:
   label: my-project
 - name: group_listings
   type: field_group_list
+  fields:
+  - name: aone1
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: aone1
+  - name: gallery
+    type: image_gallery
+    config: {}
+    label: gallery
   config:
     min: 
     max: 

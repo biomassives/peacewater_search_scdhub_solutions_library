@@ -4,34 +4,26 @@ date: 2021-02-07T01:30:25+08:00
 lastmod: 2021-02-07T01:30:25+08:00
 ---
 
-Greg Willson 的 ❤️ 博客
+Greg Willson - director
 
-记录一些 🌈 生活上，技术上的事
 
-~~一名大四学生~~
-
-~~马上~~毕业于 🏫 大连东软信息学院
-
-职业是前端工程师
-
-业余时间会做开源和 Apple App (OSX & iOS)
-
-主要的技术栈是：
+Goals of SCD Hub online
 
 - Propsal Writing Assistance
-- Collection of Case Studies
+- Support planning with solutions library
+- Improve water solutions library
+- Curation of project Case Studies
 - Collaboration with UMN Peace Engineering
-- Peace Water and ECWO project
 
-写着玩：
+Meetups/ SCD Clinics:
 
-- SCD Clinics focused on Water
+- Clinics focused on water solutions and IT support for partner groups
 -- Wastewater and Sewage
 -- Drinking Water
 -- Municipal Solid Waste
+-- Use of Peacewater methodology
 
-目前在 [Peace Engineering Program Announcement](http://news.unm.edu/news/peace-engineering-initiative-set-for-may-29) 工作
-m
-目前在 [ECHO Program Concept]() 工作
+[Peace Engineering Program Announcement](http://news.unm.edu/news/peace-engineering-initiative-set-for-may-29)
 
--- 2021 年 01 月 30 日更新
+[ECHO Program Concept]()
+

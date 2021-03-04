@@ -1,14 +1,14 @@
 ---
 title: Pyrolysis waste to fuel / waste to energy examples
-date: 2021-02-27T15:54:31+00:00
-lastmod: 2021-02-27T15:54:31+00:00
+date: 2021-02-27T15:54:31.000+00:00
+lastmod: 2021-02-27T15:54:31.000+00:00
 author: biomassives
 avatar: "/me/yy.jpg"
 cover: https://raw.githubusercontent.com/biomassives/peacewater_search_scdhub_solutions_library/main/static/img/50bef46befeec85cab9d532fdc23d811.jpg
-categories:
-- Municial Waste Recovery
-- " Pyrolysis"
-tags: []
+categories: []
+tags:
+- Solid Waste Recovery
+- Pyrolysis
 
 ---
 ## Pyrolysis waste to fuel 

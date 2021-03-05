@@ -1,5 +1,5 @@
 ---
-title: drinking water supply
+title: Peacewater Solutions Database Vision
 date: 2019-12-21T22:00:53.000+08:00
 lastmod: 2021-02-21T22:00:53.000+08:00
 author: greg
@@ -8,25 +8,15 @@ cover: "/uploads/24e2c25949e199060b8edf475af2006a.jpg"
 images:
 - "/img/Write-Before-Petal3.jpg"
 categories:
-- water treatment
-- drinking water supply
+- about peacewater
 tags:
-- carbon filtration
-- slow sand filtration
-- local manufacturing
+- project vision
 
 ---
-Drinking water solutions
-
+Peacewater Solutions Database Vision
 <!--more-->
 
 categories:
 
-* water treatment
-* low cost
-  img(src="")
-* drinking water supply
-  tags:
-  * carbon filter
-  * slow sand filter
-  * local manufacturing
+* vision
+* about Peacewater
